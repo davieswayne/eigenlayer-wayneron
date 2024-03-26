@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "wayneron",
+  "website": "https://strapi.io/",
+  "description": "node operator",
+  "logo": "https://www.shutterstock.com/image-vector/vector-abstract-futuristic-circuit-board-illustration-400761526",
+  "twitter": "https://twitter.com/David45583366"
 }
